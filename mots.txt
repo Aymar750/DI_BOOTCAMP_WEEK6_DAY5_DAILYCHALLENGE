@@ -1,0 +1,7 @@
+trello
+slack
+zoom
+teams
+asana
+notion
+
